@@ -1,14 +1,18 @@
 Welcome to Sajid Fadlelseed Page
 
-- Alogorithms and Data-structures.
+- Algorithms and Data-structures.
 - Operation Research.
 - Applications.
   - Educational:
     - Examinations:
       - Exam_mdeical
       - Exam_college
-    - Exaperimental:
-      - Real-time Systems
-      - Neural-netwroks
+    - Journals.
+  - Experimental:
+    - Real-time Systems
+    - Neural-networks
   - Business
     - QR Generator.
+  - Utilities
+    - Search PDF
+    - Sudoko printer
