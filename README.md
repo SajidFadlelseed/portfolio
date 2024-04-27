@@ -5,7 +5,7 @@ Welcome to Sajid Fadlelseed Page
 - Applications.
   - Educational:
     - Examinations:
-      - Exam_mdeical
+      - Exam_medical
       - Exam_college
     - Journals.
   - Experimental:
