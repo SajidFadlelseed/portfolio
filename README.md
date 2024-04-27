@@ -1,18 +1,18 @@
 Welcome to Sajid Fadlelseed Page
 
-- Algorithms and Data-structures.
-- Operation Research.
-- Applications.
-  - Educational:
-    - Examinations:
-      - Exam_medical
-      - Exam_college
-    - Journals.
-  - Experimental:
+# Algorithms and Data-structures.
+# Operation Research.
+# Applications.
+  ## Educational:
+    # Examinations:
+      # Exam_medical
+      # Exam_college
+    # Journals.
+  ## Experimental:
     - Real-time Systems
     - Neural-networks
-  - Business
+  ## Business
     - QR Generator.
-  - Utilities
+  ## Utilities
     - Search PDF
     - Sudoko printer
