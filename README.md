@@ -1,4 +1,4 @@
-<!-- # Sajid Fadlelseed - Academic and Industrial Software Engineer Portfolio
+# Sajid Fadlelseed - Academic and Industrial Software Engineer Portfolio
 
 ## Delve into the world of software with Sajid Fadlelseed
 
